@@ -12,3 +12,5 @@ My top 5 learnings
 
 5\. Git merging
 
+6\. GitHub pull requests
+
